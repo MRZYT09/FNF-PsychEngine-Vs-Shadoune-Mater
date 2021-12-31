@@ -1,0 +1,10 @@
+{
+	"idle_anim": "shadoune idle",
+	"image": "campaign_menu_UI_characters",
+	"position": [
+		116,
+		110
+	],
+	"scale": 0.53,
+	"confirm_anim": "M Dad Idle"
+}

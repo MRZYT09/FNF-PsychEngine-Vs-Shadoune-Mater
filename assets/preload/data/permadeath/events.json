@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "permadeath",
+		"player1": "bfnoche",
+		"player2": "shadounearmor",
+		"player3": null,
+		"events": [
+			[
+				395999.999999999,
+				[
+					[
+						"BF Fade",
+						"11",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes_noche",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"mania": 3,
+		"arrowSkin": "NOTE_assets_noche",
+		"needsVoices": true,
+		"song": "permadeath"
+	}
+}

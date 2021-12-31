@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1091,
+				192
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shadoune LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				784,
+				129
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shadoune idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				802,
+				153
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shadoune UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1001,
+				195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shadoune DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				862,
+				295
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shadoune RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				850,
+				310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "SWORD",
+			"loop": false,
+			"name": "shadoune SWORD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "shadoune_armor",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shadounearmor",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		60,
+		228
+	],
+	"camera_position": [
+		-600,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

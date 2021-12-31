@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1111,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shadoune LEFT"
+		},
+		{
+			"offsets": [
+				804,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shadoune idle"
+		},
+		{
+			"offsets": [
+				812,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shadoune UP"
+		},
+		{
+			"offsets": [
+				991,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shadoune DOWN"
+		},
+		{
+			"offsets": [
+				892,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shadoune RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "shadoune_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shadoune",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-600,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

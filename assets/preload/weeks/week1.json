@@ -1,0 +1,49 @@
+{
+	"storyName": "EXTRA",
+	"difficulties": "uhc",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "baguetita",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"shadoune",
+		"shadoune",
+		"shadoune"
+	],
+	"songs": [
+		[
+			"rainbow",
+			"shadoune",
+			[
+				235,
+				49,
+				49
+			]
+		],
+		[
+			"the-end",
+			"shadounearmor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"termination",
+			"shadoune",
+			[
+				235,
+				49,
+				49
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "extra"
+}

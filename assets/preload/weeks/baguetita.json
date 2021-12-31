@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"shadoune",
+			"shadoune",
+			[
+				255,
+				44,
+				44
+			]
+		],
+		[
+			"decition",
+			"shadoune",
+			[
+				255,
+				44,
+				44
+			]
+		],
+		[
+			"you-are-mine",
+			"shadounearmor",
+			[
+				186,
+				73,
+				253
+			]
+		],
+		[
+			"permadeath",
+			"shadounearmor",
+			[
+				186,
+				73,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "fondito",
+	"difficulties": "hard,uhc",
+	"weekCharacters": [
+		"shadoune",
+		"bf",
+		"gf"
+	],
+	"storyName": "ultra hardcore",
+	"weekName": "baguetita",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
